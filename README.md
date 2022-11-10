@@ -13,6 +13,9 @@ Crytek Sponza model (CC BY 3.0) from McGuire Computer Graphics Archive. Ported t
 # License
 
 Crytek Sponza
+
 © 2010 Frank Meinl, Crytek
+
 License: [CC BY 3.0](LICENSE.md)
+
 Link: https://casual-effects.com/data/
