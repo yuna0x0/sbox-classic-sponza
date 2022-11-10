@@ -1,0 +1,20 @@
+{
+  "Title": "Classic Sponza",
+  "Type": "map",
+  "Org": "edison",
+  "Ident": "classic_sponza",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "facepunch.sandbox"
+    ]
+  }
+}
