@@ -33,7 +33,7 @@ Layer0
 	TextureNormal "textures/details/details_normal.tiff"
 
 	//---- Roughness ----
-	TextureRoughness "materials/default/default_rough.tga"
+	TextureRoughness "textures/details/details_rough.png"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"

@@ -33,7 +33,7 @@ Layer0
 	TextureNormal "textures/lion_head/lion_head_normal.tif"
 
 	//---- Roughness ----
-	TextureRoughness "materials/default/default_rough.tga"
+	TextureRoughness "textures/lion_head/lion_head_rough.png"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"

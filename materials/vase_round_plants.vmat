@@ -41,7 +41,7 @@ Layer0
 	TextureNormal "textures/vase_round_plants/vase_round_plants_normal.tiff"
 
 	//---- Roughness ----
-	TextureRoughness "materials/default/default_rough.tga"
+	TextureRoughness "textures/vase_round_plants/vase_round_plants_rough.png"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
