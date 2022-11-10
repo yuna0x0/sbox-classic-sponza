@@ -7,3 +7,12 @@
 Crytek Sponza model (CC BY 3.0) from McGuire Computer Graphics Archive. Ported to s&box (Source 2).
 
 ![sbox-dev_S7VLJGEFmM](https://user-images.githubusercontent.com/5277788/201020528-dfb005a5-c7e0-40cd-ac44-9e13fe5c1d3c.jpg)
+
+---
+
+# License
+
+Crytek Sponza
+© 2010 Frank Meinl, Crytek
+License: [CC BY 3.0](LICENSE.md)
+Link: https://casual-effects.com/data/
