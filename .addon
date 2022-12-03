@@ -15,6 +15,9 @@
     "ProjectTemplate": null,
     "GameSupport": [
       "facepunch.sandbox"
-    ]
+    ],
+    "Summary": "\u0022The Atrium Sponza Palace\u0022 is a widely used scene for computer graphics demonstration.",
+    "Description": "Crytek Sponza model (CC BY 3.0) from McGuire Computer Graphics Archive. Ported to s\u0026box (Source 2).",
+    "Public": true
   }
 }
